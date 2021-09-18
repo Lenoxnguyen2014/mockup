@@ -1,0 +1,21 @@
+body {
+    margin: 50px 50px !important;
+    background-color: antiquewhite;
+    border: solid 1px blue !important;
+}
+
+.report-table{
+    margin: 100px 50px !important;
+}
+
+.report-title{
+    display: inline-flex !important;
+    justify-content: space-between !important;
+    text-align: left;
+    text-indent: 50px;
+}
+
+.report-title li {
+    list-style-type: none !important;
+
+}
